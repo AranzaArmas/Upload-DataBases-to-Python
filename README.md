@@ -1,2 +1,2 @@
 # Upload-DataBases
-Upload databases of different formats to Python
+This script shows how to upload databases of different formats to Python
